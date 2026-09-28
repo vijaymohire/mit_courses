@@ -19,7 +19,7 @@ All courses listed below are MIT-authored, graduate-level, mathematically rigoro
   - Bloch sphere and single-qubit operations
 - **Performance:** ~71% overall  
 - **Outcome:** Solid foundation in quantum formalism and information-theoretic concepts
-- **Key Learnings:** [MIT 8.370.1x Course Extraction](implementation_discovery/github/mit_courses/courses/mit_8_370_1x/source_material/docs/MIT_8_370_1x_Complete_Course_Extraction_SU1_SU2_SU3.pdf)
+- **Key Learnings:** [MIT 8.370.1x Course Extraction](https://github.com/vijaymohire/holdco/blob/main/implementation_discovery/github/mit_courses/courses/mit_8_370_1x/source_material/docs/MIT_8_370_1x_Complete_Course_Extraction_SU1_SU2_SU3.pdf)
 
 
 ---
@@ -33,7 +33,7 @@ All courses listed below are MIT-authored, graduate-level, mathematically rigoro
   - Quantum operations in Schrödinger and Heisenberg pictures
 - **Performance:** ~85% overall  
 - **Outcome:** Strong conceptual and mathematical understanding of multi-qubit systems
-- **Key Learnings:** [MIT 8.370.2x Course Extraction](implementation_discovery/github/mit_courses/courses/mit_8_370_2x/source_material/docs/MIT_8_370_2x_Course_Level_QAI_Learning_Extraction_SU1-SU4_2026.pdf)
+- **Key Learnings:** [MIT 8.370.2x Course Extraction](https://github.com/vijaymohire/holdco/blob/main/implementation_discovery/github/mit_courses/courses/mit_8_370_2x/source_material/docs/MIT_8_370_2x_Course_Level_QAI_Learning_Extraction_SU1-SU4_2026.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ All courses listed below are MIT-authored, graduate-level, mathematically rigoro
   - Fidelity-based performance analysis
 - **Performance:** ~87% overall  
 - **Outcome:** Applied understanding of noise models and physical quantum processes
-- **Key Learnings:** [MIT 8.370.3x Course Extraction](implementation_discovery/github/mit_courses/courses/mit_8_370_3x/source_material/docs/MIT_8_370_3x_Course_Level_QAI_Learning_Extraction_SU1-SU4_2026.pdf)
+- **Key Learnings:** [MIT 8.370.3x Course Extraction](https://github.com/vijaymohire/holdco/blob/main/implementation_discovery/github/mit_courses/courses/mit_8_370_3x/source_material/docs/MIT_8_370_3x_Course_Level_QAI_Learning_Extraction_SU1-SU4_2026.pdf)
 
 ---
 
@@ -59,7 +59,7 @@ All courses listed below are MIT-authored, graduate-level, mathematically rigoro
   - Gottesman–Knill theorem
 - **Performance:** ~72% overall  
 - **Outcome:** Practical circuit-level reasoning and stabilizer-based computation
-- **Key Learnings:** [MIT 8.371.1x Course Extraction](implementation_discovery/github/mit_courses/courses/mit_8_371_1x/source_material/docs/MIT_8_371_1x_Course_Level_QAI_Learning_Extraction_SU1-SU4_2026.pdf)
+- **Key Learnings:** [MIT 8.371.1x Course Extraction](https://github.com/vijaymohire/holdco/blob/main/implementation_discovery/github/mit_courses/courses/mit_8_371_1x/source_material/docs/MIT_8_371_1x_Course_Level_QAI_Learning_Extraction_SU1-SU4_2026.pdf)
 
 ---
 
@@ -72,7 +72,7 @@ All courses listed below are MIT-authored, graduate-level, mathematically rigoro
   - Logical vs physical qubits
 - **Performance:** ~80% overall  
 - **Outcome:** System-level understanding of fault tolerance constraints
-- **Key Learnings:** [MIT 8.371.2x Course Extraction](implementation_discovery/github/mit_courses/courses/mit_8_371_2x/source_material/docs/MIT_8_371_2x_Course_Level_QAI_Learning_Extraction_SU1-SU3_2026.pdf)
+- **Key Learnings:** [MIT 8.371.2x Course Extraction](https://github.com/vijaymohire/holdco/blob/main/implementation_discovery/github/mit_courses/courses/mit_8_371_2x/source_material/docs/MIT_8_371_2x_Course_Level_QAI_Learning_Extraction_SU1-SU3_2026.pdf)
 
 ---
 
@@ -85,7 +85,7 @@ All courses listed below are MIT-authored, graduate-level, mathematically rigoro
   - Error correction criteria and code distance
 - **Performance:** ~75% overall  
 - **Outcome:** Deep insight into scalable and topological QEC architectures
-- **Key Learnings:** [MIT 8.371.3x Course Extraction](implementation_discovery/github/mit_courses/courses/mit_8_371_3x/source_material/docs/MIT_Quantum_Information_Science_II_Part3_Course_Level_QAI_Learning_Extraction_SU1-SU3_2026.pdf)
+- **Key Learnings:** [MIT 8.371.3x Course Extraction](https://github.com/vijaymohire/holdco/blob/main/implementation_discovery/github/mit_courses/courses/mit_8_371_3x/source_material/docs/MIT_Quantum_Information_Science_II_Part3_Course_Level_QAI_Learning_Extraction_SU1-SU3_2026.pdf)
 
 ---
 
